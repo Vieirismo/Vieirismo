@@ -1,4 +1,4 @@
-# 👋 What’s Up? My name is Vieira.
+# 👋 What’s Up? My name is Gabriel Vieira.
 
 
 20-year-old Brazilian student of Systems Development at Colégio Técnico de Campinas - Unicamp. This is a repository of studies and tests. 
